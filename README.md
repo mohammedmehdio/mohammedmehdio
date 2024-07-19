@@ -38,8 +38,8 @@
       
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,mysql,sqlserver,oracle,vscode,clion,pycharm,phpstorm,datagrip" /><br> 
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,nodejs,react,php,laravel,c,cpp,python,java" />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,git,github,mysql,sqlserver,oracle,vscode,clion,pycharm,phpstorm,datagrip" /><br> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,nodejs,react,angular,php,laravel,c,cpp,python,java" />
      
   </a>
 </p>    
