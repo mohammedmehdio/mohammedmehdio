@@ -7,12 +7,14 @@
 </p>
 
 <h1 align="center">
-  I'm a passionate FrontEnd developer from Morocco
+  I'm a passionate FrontEnd developer from Morocco  <img src="https://github.com/user-attachments/assets/65aa35de-03b4-449b-9e6d-4a6c5dc4d43f" width=35px>
 </h1>
+
+
 <br>
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/user-attachments/assets/5e9de0ee-8782-4d1e-bfa0-dd1f20e41a4f" width = 35px></picture> **About me**
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br>
 
