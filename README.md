@@ -15,7 +15,7 @@
 <br>
 
 ## <picture><img src = "https://github.com/user-attachments/assets/5e9de0ee-8782-4d1e-bfa0-dd1f20e41a4f" width = 35px></picture> **About me**
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br>
 
 - 🌱 I’m currently learning  **: Js & php**
