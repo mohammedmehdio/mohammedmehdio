@@ -61,16 +61,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <table align="center">
 <tr border="none">
-<td width="60%" align="center">
+<td width="57%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mohammedmehdio&theme=gotham&show_icons=true&count_private=true" />
+  <img  align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=mohammedmehdio&theme=gotham&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmehdio&theme=gotham&hide_border=false" /> 
+  <img width="100%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmehdio&theme=gotham&hide_border=false" /> 
 </td>
 
-<td width="80%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohammedmehdio&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<td  align="center">
+<img  align="center" width="100%" heigth="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohammedmehdio&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
   
   </td>
 </tr>
