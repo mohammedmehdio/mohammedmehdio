@@ -40,8 +40,8 @@
       
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-   <img width="800px" src="https://go-skill-icons.vercel.app/api/icons?i=figma,git,github,mysql,sqlserver,oracle,vscode,clion,pycharm,phpstorm,datagrip" /><br> <br>
-    <img width="900px" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,nodejs,react,angular,php,laravel,c,cpp,python,java" />
+   <img  src="https://go-skill-icons.vercel.app/api/icons?i=figma,git,github,mysql,sqlserver,oracle,vscode,clion,pycharm,phpstorm,datagrip" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,nodejs,react,angular,php,laravel,c,cpp,python,java" />
      
   </a>
 </p>    
@@ -59,17 +59,17 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<table align="center" height=100%>
+<table align="center">
 <tr border="none">
-<td width="57%" align="center">
+<td width="50%" align="center">
   
-  <img  align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=mohammedmehdio&theme=gotham&show_icons=true&count_private=true" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedmehdio&theme=gotham&show_icons=true&count_private=true" />
   <br></br>
-  <img width="100%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmehdio&theme=gotham&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmehdio&theme=gotham&hide_border=false" /> 
 </td>
 
-<td  align="center">
-<img  align="center" width="100%" height="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohammedmehdio&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<td width="50%" align="center">
+<img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohammedmehdio&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   
   </td>
