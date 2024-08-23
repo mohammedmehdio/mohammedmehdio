@@ -59,7 +59,7 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<table align="center">
+<table align="center" height=100%>
 <tr border="none">
 <td width="57%" align="center">
   
@@ -69,7 +69,7 @@
 </td>
 
 <td  align="center">
-<img  align="center" width="100%" heigth="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohammedmehdio&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center" width="100%" height="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohammedmehdio&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   
   </td>
