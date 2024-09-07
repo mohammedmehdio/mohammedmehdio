@@ -22,7 +22,7 @@
 
 - 💬 Ask me about   **: Sql & CSS**
   
-- 💻 My favorite OS  **: Windows & Arch**
+- 💻 My favorite OS  **: Windows & Kali**
 
 - 📫 How to reach me   **:  mehdi2005bd@gmail.com**
 
