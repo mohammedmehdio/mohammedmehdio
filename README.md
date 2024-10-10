@@ -40,8 +40,8 @@
       
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-   <img  src="https://go-skill-icons.vercel.app/api/icons?i=figma,docker,wsl,kali,redhat,git,github,mysql,sqlserver,oracle,vscode,clion,pycharm,phpstorm,datagrip" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,nodejs,react,angular,php,laravel,c,cpp,java,python" />
+   <img  src="https://go-skill-icons.vercel.app/api/icons?i=figma,vscode,datagrip,clion,pycharm,docker,git,github,mysql,sqlserver,oracle,wsl,kali,redhat" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,javascript,nodejs,react,angular,php,laravel,c,cpp,java,python" />
      
   </a>
 </p>    
