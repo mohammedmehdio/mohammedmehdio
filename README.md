@@ -18,7 +18,7 @@
 <img width="57%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br>
 
-- 🌱 I’m currently learning  **: java & docker**
+- 🌱 I’m currently learning  **: Ethical Hacking**
 
 - 💬 Ask me about   **: Sql & CSS**
   
