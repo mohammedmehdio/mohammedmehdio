@@ -33,7 +33,8 @@
 
 
 ----
-<img src="https://tryhackme-badges.s3.amazonaws.com/mohammedmehdi.bo.png" alt="Your Image Badge" />
+### 🎖️ **Hacking Badges**
+  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mohammedmehdi.bo.png)](https://tryhackme.com/p/mohammedmehdi.bo)
 <br>
 
 
