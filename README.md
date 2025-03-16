@@ -35,11 +35,14 @@
 ----
 <br>
 <h2><img src="https://github.com/user-attachments/assets/f757c510-60f3-42ed-8766-cc8fa297ac3e" width ="50"> Hacking Badges</h2>
- <div><img src="https://github.com/user-attachments/assets/15f531d4-f162-4da9-9e9b-f4e0593e86b0" width=200px>
-  <img src="https://github.com/user-attachments/assets/0bb7a6d8-176d-483d-b221-9d5542b3788e" href="https://tryhackme.com/p/mohammedmehdi.bo">
+ <div>
+   <a href="https://tryhackme.com/p/mohammedmehdi.bo">
+  <img src="https://github.com/user-attachments/assets/15f531d4-f162-4da9-9e9b-f4e0593e86b0" width="200px">
+</a>
 
-  
-
+<a href="https://tryhackme.com/p/mohammedmehdi.bo">
+  <img src="https://github.com/user-attachments/assets/0bb7a6d8-176d-483d-b221-9d5542b3788e" width="300px">
+</a>
  </div> <br>
   <br>
  <div align="center">
