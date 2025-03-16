@@ -28,13 +28,34 @@
 
 - 📫 How to reach me   **:  mehdi2005bd@gmail.com**
 
-  
+  <br>
 
 
 
 ----
-### 🎖️ **Hacking Badges**
-  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mohammedmehdi.bo.png)](https://tryhackme.com/p/mohammedmehdi.bo)
+<br>
+<h2><img src="https://github.com/user-attachments/assets/f757c510-60f3-42ed-8766-cc8fa297ac3e" width ="50"> Hacking Badges</h2>
+ <div><img src="https://github.com/user-attachments/assets/15f531d4-f162-4da9-9e9b-f4e0593e86b0" width=200px>
+  <img src="https://github.com/user-attachments/assets/0bb7a6d8-176d-483d-b221-9d5542b3788e" href="https://tryhackme.com/p/mohammedmehdi.bo">
+
+  
+
+ </div> <br>
+  <br>
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/784a7947-21bb-4ce9-b940-26186645df2f" width=70px>
+  <img src="https://github.com/user-attachments/assets/b9ae0a3e-a6a8-43e3-805c-0bf37fbe6088" width=70px>
+  <img src="https://github.com/user-attachments/assets/c3110d5c-6e49-4f14-a3b1-4a6885c6798a" width=70px>
+  <img src="https://github.com/user-attachments/assets/4be48bad-08cf-4da3-be6d-22eec0acb5a5" width=70px>
+  <img src="https://github.com/user-attachments/assets/6140ea1e-abd0-46a4-b81b-f44a79abee83" width=70px>
+  <img src="https://github.com/user-attachments/assets/759c9dfc-f0a1-4e56-964a-ebae04f60311" width=70px>
+  <img src="https://github.com/user-attachments/assets/17285c54-dc7a-40a7-943c-c233fa0d8492" width=70px>
+  <img src="https://github.com/user-attachments/assets/d3c3c2fb-da2a-44cd-a7df-9beb2554b6df" width=70px>
+  <img src="https://github.com/user-attachments/assets/241efb7b-6bca-4d2d-b6da-97cef58f060a" width=70px>
+  <img src="https://github.com/user-attachments/assets/60cf9f5c-7dce-486b-9d73-f6cff6f441b5" width=70px>
+  </div>
+  
+---
 <br>
 
 
