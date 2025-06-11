@@ -20,11 +20,11 @@
   
 
 
-- 🌱 I’m currently learning  **: Ethical Hacking**
+- 🌱 I’m currently learning  **: Flutter**
 
 - 💬 Ask me about   **: Sql & CSS**
   
-- 💻 My favorite OS  **: Windows & Kali**
+- 💻 My favorite OS  **: Kali Linux**
 
 - 📫 How to reach me   **:  mehdi2005bd@gmail.com**
 
